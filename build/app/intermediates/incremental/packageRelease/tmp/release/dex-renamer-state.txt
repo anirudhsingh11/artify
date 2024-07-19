@@ -1,0 +1,4 @@
+#Tue Dec 19 01:33:30 IST 2023
+base.0=C\:\\Users\\Anirudh\\Desktop\\Artify-main\\Artify-main\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
